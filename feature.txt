@@ -1,0 +1,8 @@
+## Tính năng mới: Hệ thống thống kê học tập
+
+1. Ghi lại tiến độ học hàng ngày.
+2. Tự động tính tổng giờ học mỗi tuần.
+3. Hiển thị biểu đồ tiến độ học tập.
+4. Gợi ý nội dung cần học tiếp theo.
+5. Xuất báo cáo PDF kết quả học tập.
+
